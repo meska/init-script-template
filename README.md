@@ -47,7 +47,7 @@ Starts the app.
 
 ### AutoStart ###
 
-Automatic Starts the app.
+Automatic Starts the app on Ubuntu.
 
     update-rc.d algorithms defaults
 
