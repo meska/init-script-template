@@ -45,6 +45,12 @@ Starts the app.
 
     /etc/init.d/algorithms start
 
+### AutoStart ###
+
+Automatic Starts the app.
+
+    update-rc.d algorithms defaults
+
 ### Stop ###
 
 Stops the app.
